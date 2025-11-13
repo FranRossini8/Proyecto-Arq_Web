@@ -12,4 +12,9 @@
         - `GET /usuarios/{usuarioId}/autos` -> Para obtener todos los autos de un usuario  
       - Otro para que los usuarios puedan buscar un auto en especifico por ID
         - `GET /usuarios/{usuarioId}/{autoId}` -> Para obtener un auto en especifico de un usuario
+
+Para ejecutarlo hay que seguir los siguientes pasos:
+  1) npm install
+  2) npm start
+  3) npm run dev  
        
